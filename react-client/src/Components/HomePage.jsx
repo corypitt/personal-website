@@ -6,6 +6,7 @@ class HomePage extends Component {
                 Home page
                 This is a test!
                 This is a new test.
+                This is anoooootha one.
             </div>
         )
     }
