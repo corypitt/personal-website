@@ -8,7 +8,7 @@ class HomePage extends Component {
     render() {
         return (
             <div>
-                This is a new change. High-level content / summary. High-level content / summary.
+                Hi there... my name is Cory Pitt.
                 <Route name="articles" exact path="/" component={ArticlesSection} />
             </div>
 
