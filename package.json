@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
+    "svg-inline-loader": "^0.8.2",
     "webpack-cli": "^3.3.11"
   }
 }
